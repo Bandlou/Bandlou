@@ -1,4 +1,7 @@
 ### My recent projects
+#### [“_Acarew_” (2021) – Computer Graphics](https://github.com/Bandlou/Acarew)
+A recent and ongoing project to familiarize myself with Unreal Engine 5.0. For now, I implemented a basic marching cubes algorithm and I plan to make it faster.
+
 #### [“_Valdi & the 4 Seasons_” (2020-2021) – Gameplay Design, Programming (team of 9)](https://github.com/Bandlou/university-projects#valdi--the-4-seasons)
 A 2D puzzle platformer where you manipulate the seasons. A 9-person project, including artists and sound designers, with regular interdisciplinary meetings. I implemented the season system with the transition effect. I also worked on gameplay, project architecture, player control, camera, sound, and UI.
 
