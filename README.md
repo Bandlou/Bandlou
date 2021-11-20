@@ -1,6 +1,6 @@
 ## Personal projects
 [“_Acarew_” (2021) – Computer Graphics](https://github.com/Bandlou/Acarew)  
-A recent and ongoing project to familiarize myself with Unreal Engine 5.0. For now, I implemented a basic marching cubes algorithm and I plan to make it faster.
+A recent and ongoing project to familiarize myself with Unreal Engine 5.0. For now, I implemented a basic marching cubes algorithm. I am currently working on making it run on a compute shader. After that, I will use it to generate an infinite procedural terrain and allow the player to alter it with simple tools.
 
 [“_Whitewater_” (2021) – Physics Programming](https://github.com/Bandlou/whitewater)  
 A boat simulation prototype. I implemented a system to extract the faces’ data from a boat mesh and used those to implement the boat physics, including buoyancy, water viscosity/drag/friction and air drag.
