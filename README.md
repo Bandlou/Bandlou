@@ -18,5 +18,5 @@ An AI capable of controlling an articulated combat robot. I implemented a realis
 [“_Surviral_” (2020) – Gameplay Design, Programming (team of 3)](https://github.com/Bandlou/university-projects#surviral)  
 A 2D RTS game where the player takes control of a human immune system to fight a growing infection. I made some immunology research and then the whole team designed the gameplay. I implemented a collision system, the unit recruitment and spawn systems, the bacteria proliferation and attack systems.
 
-## How to reach me
-- LinkedIn: https://www.linkedin.com/in/louis-bandelier/
+## Contact
+You can reach me via lbandelier@hotmail.com or via [LinkedIn](https://www.linkedin.com/in/louis-bandelier/).
