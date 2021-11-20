@@ -8,7 +8,7 @@ A boat simulation prototype. I implemented a system to extract the faces’ data
 [“_The Art of War_” (2020-2021) – Gameplay Design, Programming](https://github.com/Bandlou/the-art-of-war)  
 RPG prototype centred on NPCs’ personality and responsiveness. I first designed a character personality model. Then I used it as a base to design and implement a decision system to evaluates choices and a relationship system to evaluates actions.
 
-### University projects
+## University projects
 [“_Valdi & the 4 Seasons_” (2020-2021) – Gameplay Design, Programming (team of 9)](https://github.com/Bandlou/university-projects#valdi--the-4-seasons)  
 A 2D puzzle platformer where you manipulate the seasons. A 9-person project, including artists and sound designers, with regular interdisciplinary meetings. I implemented the season system with the transition effect. I also worked on gameplay, project architecture, player control, camera, sound, and UI.
 
