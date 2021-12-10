@@ -1,6 +1,6 @@
 ## Currently working on
 __[“_Red Cowboy_” (2021)](https://github.com/Bandlou/red-cowboy) – Gameplay, Physics, AI, Animation__ 🔴 Unreal 5.0  
-A 5-day project to try to implement some RDR2 gameplay features on Unreal Engine 5.0. Starting today...
+A 4-day project to try to implement some RDR2 gameplay features on Unreal Engine 5.0. Started on Thursday 9th...
 
 ## Personal projects
 __[“_Acarew_” (2021)](https://github.com/Bandlou/Acarew) – Computer Graphics__ 🔴 Unreal 5.0  
