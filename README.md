@@ -1,6 +1,6 @@
-## Currently working on
+## Lastly working on...
 __[“_Red Cowboy_” (2021)](https://github.com/Bandlou/red-cowboy) – Gameplay, AI, Animation__ 🔴 Unreal 5.0  
-A 4-day project to try to implement some RDR2 gameplay features on Unreal Engine 5.0. Started on Thursday 9th...
+A 4-day project to try to implement a RDR2 lock system on Unreal Engine 5.0. NPCs use a behavior tree to freely roam and react to the player's actions. The player can lock an NPC and interact with him.
 
 ## Personal projects
 __[“_Acarew_” (2021)](https://github.com/Bandlou/Acarew) – Computer Graphics__ 🔴 Unreal 5.0  
