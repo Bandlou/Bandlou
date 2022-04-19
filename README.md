@@ -9,9 +9,6 @@ A 4-day project where I implemented a basic lock system on Unreal Engine 5.0. NP
 __[“_Whitewater_” (2021)](https://github.com/Bandlou/whitewater) – Physics__ 🟢 Unity  
 A boat simulation prototype. I implemented a system to extract the faces’ data from a boat mesh and used those to implement the boat physics, including buoyancy, water viscosity/drag/friction and air drag.
 
-__[“_The Art of War_” (2020-2021)](https://github.com/Bandlou/the-art-of-war) – Gameplay Design, Programming__ 🔵 Godot  
-RPG prototype centred on NPCs’ personality and responsiveness. I first designed a character personality model. Then I used it as a base to design and implement a decision system to evaluates choices and a relationship system to evaluates actions.
-
 ## University projects
 __[“_Valdi & the 4 Seasons_” (2020-2021)](https://github.com/Bandlou/university-projects#valdi--the-4-seasons) – Gameplay Design, Programming (team of 9)__ 🟢 Unity  
 A 2D puzzle platformer where you manipulate the seasons. A 9-person project, including artists and sound designers, with regular interdisciplinary meetings. I implemented the season system with the transition effect. I also worked on gameplay, project architecture, player control, camera, sound, and UI.
